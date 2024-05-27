@@ -98,7 +98,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: "Noto Sans JP", sans-serif;
 }
 
 @media (max-width: 800px) {
